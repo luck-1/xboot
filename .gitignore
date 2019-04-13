@@ -1,0 +1,11 @@
+.idea/
+
+target/
+
+maven/
+
+xboot-logs/
+
+*.iml
+
+*.bak
